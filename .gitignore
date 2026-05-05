@@ -1,0 +1,31 @@
+# dependencies
+meu-portfolio/frontend/node_modules/
+meu-portfolio/node_modules/
+meu-portfolio/frontend/.pnp
+meu-portfolio/frontend/.pnp.js
+/node_modules/
+
+# testing
+meu-portfolio/frontend/coverage/
+
+# production
+meu-portfolio/frontend/build/
+
+# misc
+.DS_Store
+meu-portfolio/frontend/.env.local
+meu-portfolio/frontend/.env.development.local
+meu-portfolio/frontend/.env.test.local
+meu-portfolio/frontend/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
